@@ -23,3 +23,7 @@ SH-021,originals/P39_Dijkstra_A.java,plagiarized/heavy/P39_Dijkstra_A_H1.java,1,
 SH-022,originals/P40_UnionFind_A.java,plagiarized/light/P40_UnionFind_A_L1.java,1,light,test
 SH-023,originals/P40_UnionFind_A.java,plagiarized/medium/P40_UnionFind_A_M1.java,1,medium,test
 SH-024,originals/P40_UnionFind_A.java,plagiarized/heavy/P40_UnionFind_A_H1.java,1,heavy,test
+SH-025,originals/P33_Knapsack_A.java,originals/P33_Knapsack_B.java,0,same_problem,dev
+SH-026,originals/P35_CoinChange_A.java,originals/P35_CoinChange_B.java,0,same_problem,dev
+SH-027,originals/P39_Dijkstra_A.java,originals/P39_Dijkstra_B.java,0,same_problem,test
+SH-028,originals/P40_UnionFind_A.java,originals/P40_UnionFind_B.java,0,same_problem,test

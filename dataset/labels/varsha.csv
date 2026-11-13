@@ -23,3 +23,7 @@ VA-021,originals/P31_DetectCycle_A.java,plagiarized/heavy/P31_DetectCycle_A_H1.j
 VA-022,originals/P32_MergeSort_A.java,plagiarized/light/P32_MergeSort_A_L1.java,1,light,test
 VA-023,originals/P32_MergeSort_A.java,plagiarized/medium/P32_MergeSort_A_M1.java,1,medium,test
 VA-024,originals/P32_MergeSort_A.java,plagiarized/heavy/P32_MergeSort_A_H1.java,1,heavy,test
+VA-025,originals/P25_QuickSort_A.java,originals/P25_QuickSort_B.java,0,same_problem,dev
+VA-026,originals/P29_DFS_A.java,originals/P29_DFS_B.java,0,same_problem,dev
+VA-027,originals/P31_DetectCycle_A.java,originals/P31_DetectCycle_B.java,0,same_problem,test
+VA-028,originals/P32_MergeSort_A.java,originals/P32_MergeSort_B.java,0,same_problem,test

@@ -23,3 +23,7 @@ LV-021,originals/P23_Queue_A.java,plagiarized/heavy/P23_Queue_A_H1.java,1,heavy,
 LV-022,originals/P24_ReverseLinkedList_A.java,plagiarized/light/P24_ReverseLinkedList_A_L1.java,1,light,test
 LV-023,originals/P24_ReverseLinkedList_A.java,plagiarized/medium/P24_ReverseLinkedList_A_M1.java,1,medium,test
 LV-024,originals/P24_ReverseLinkedList_A.java,plagiarized/heavy/P24_ReverseLinkedList_A_H1.java,1,heavy,test
+LV-025,originals/P17_TwoSum_A.java,originals/P17_TwoSum_B.java,0,same_problem,dev
+LV-026,originals/P21_Stack_A.java,originals/P21_Stack_B.java,0,same_problem,dev
+LV-027,originals/P23_Queue_A.java,originals/P23_Queue_B.java,0,same_problem,test
+LV-028,originals/P24_ReverseLinkedList_A.java,originals/P24_ReverseLinkedList_B.java,0,same_problem,test

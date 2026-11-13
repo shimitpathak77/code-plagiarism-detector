@@ -23,3 +23,7 @@ KH-021,originals/P15_MergeSortedArrays_A.java,plagiarized/heavy/P15_MergeSortedA
 KH-022,originals/P16_MatrixTranspose_A.java,plagiarized/light/P16_MatrixTranspose_A_L1.java,1,light,test
 KH-023,originals/P16_MatrixTranspose_A.java,plagiarized/medium/P16_MatrixTranspose_A_M1.java,1,medium,test
 KH-024,originals/P16_MatrixTranspose_A.java,plagiarized/heavy/P16_MatrixTranspose_A_H1.java,1,heavy,test
+KH-025,originals/P09_SelectionSort_A.java,originals/P09_SelectionSort_B.java,0,same_problem,dev
+KH-026,originals/P11_FibonacciDP_A.java,originals/P11_FibonacciDP_B.java,0,same_problem,dev
+KH-027,originals/P15_MergeSortedArrays_A.java,originals/P15_MergeSortedArrays_B.java,0,same_problem,test
+KH-028,originals/P16_MatrixTranspose_A.java,originals/P16_MatrixTranspose_B.java,0,same_problem,test

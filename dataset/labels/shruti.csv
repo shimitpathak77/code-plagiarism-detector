@@ -23,3 +23,7 @@ SB-021,originals/P07_BinarySearch_A.java,plagiarized/heavy/P07_BinarySearch_A_H1
 SB-022,originals/P08_BubbleSort_A.java,plagiarized/light/P08_BubbleSort_A_L1.java,1,light,test
 SB-023,originals/P08_BubbleSort_A.java,plagiarized/medium/P08_BubbleSort_A_M1.java,1,medium,test
 SB-024,originals/P08_BubbleSort_A.java,plagiarized/heavy/P08_BubbleSort_A_H1.java,1,heavy,test
+SB-025,originals/P01_ReverseArray_A.java,originals/P01_ReverseArray_B.java,0,same_problem,dev
+SB-026,originals/P03_LinearSearch_A.java,originals/P03_LinearSearch_B.java,0,same_problem,dev
+SB-027,originals/P07_BinarySearch_A.java,originals/P07_BinarySearch_B.java,0,same_problem,test
+SB-028,originals/P08_BubbleSort_A.java,originals/P08_BubbleSort_B.java,0,same_problem,test
